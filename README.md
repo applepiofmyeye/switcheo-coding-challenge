@@ -6,9 +6,13 @@ Hi team, my name is Joey and I am a year 3 CS student, passionate in software de
 
 #### Problem 4
 ```
-problem 4 > music
+problem 4 > n_sum.go
 ```
-This is the folder with my submission for problem 4. It is linked to a separate repository [here](https://github.com/applepiofmyeye/switcheo-cosmos).
+This is the file with my submission for problem 4. 
+
+#### Problem 5
+
+My submission for problem 5 is linked to a separate repository [here](https://github.com/applepiofmyeye/switcheo-cosmos).
 
 #### Problem 6
 ```
