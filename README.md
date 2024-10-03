@@ -1,6 +1,6 @@
 ## Hi Switcheo!
 
-Hi team, my name is Joey and I am a year 3 CS student. 
+Hi team, my name is Joey and I am a year 3 CS student, passionate in software development. This is my submission for my application as a Backend Engineering Intern! :-)
 
 ### Accessing my coding challenge solutions
 
